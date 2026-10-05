@@ -1,64 +1,79 @@
-<div align="center">
-  
-# 👋 Hi, I'm Anderson Aragão
+# Anderson Aragão
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+**Full Stack Development · IT Infrastructure · Applied AI**
 
-</div>
+I build full stack web applications, management systems and integrations, combining software development with hands-on IT infrastructure experience.
 
----
+I currently work as a **Mid-Level IT Support Analyst at CEJAM**, supporting healthcare IT at Hospital Municipal Evandro Freire (HMEF) in Rio de Janeiro, Brazil.
 
-## 🛠️ Tech Stack
+[LinkedIn](https://www.linkedin.com/in/aragao-anderson/) · [ARFA Info](https://arfainfo.com.br/) · [Email](mailto:andersonaragao@outlook.com)
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## What I work on
 
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+- **Full stack applications:** frontend, backend, REST APIs, database integration and admin dashboards.
+- **Applied AI:** using AI in project development and building WhatsApp bots with AI-generated responses.
+- **Infrastructure and healthcare IT:** server administration, hospital systems, technical support and process automation.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## Selected projects
 
-### Tools & Platforms
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Project | What I built | Platform / status |
+| --- | --- | --- |
+| [CondoNos](https://condonos.com.br/) | Condominium platform with communication, incident management, shared-space bookings and financial tracking. | Web |
+| [TAPR](https://tapr.online/) | Online radio player. The Windows app is published in the Microsoft Store. | Web, Windows, iOS and Android |
+| [MontServ](https://montserv.com.br/) | Company website with an administration area for managing projects. | Web |
+| **Casa do Guerreiro Tricolor** | Member and revenue management, online store, admin dashboard and POS for a supporters' club, plus events, news and podcasts. | In development |
 
-</div>
+## Technologies
 
----
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, JavaScript, TypeScript |
+| Backend and integrations | Node.js, Express.js, REST APIs |
+| Databases | Oracle SQL, MySQL, MongoDB |
+| Automation and tooling | PowerShell, Docker, Git |
+| Infrastructure | Windows Server, Linux, Active Directory, GPO, Proxmox, networking |
+| Healthcare systems and support | MV/SOUL MV, GLPI |
+| Additional technologies | Python, Java, PHP, Joomla, WordPress, macOS |
 
-## 💬 Let's Connect
+## Education
 
-<div align="center">
+Bachelor's degree in **Computer Engineering** from Universidade Iguaçu. Currently pursuing postgraduate specializations in **Cloud Computing, Mobile Application Development, IT Governance and Management, and Artificial Intelligence**.
 
-[![Telegram](https://img.shields.io/badge/Telegram-@AndersonAragao-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndersonAragao)
-[![Threads](https://img.shields.io/badge/Threads-@andersonaragao-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@andersonaragao)
-[![Instagram](https://img.shields.io/badge/Instagram-@andersonaragao-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andersonaragao)
-[![Email](https://img.shields.io/badge/Email-andersonaragao%40me.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonaragao@me.com)
+## Em português
 
-<br><br>
+<details>
+<summary><strong>Sobre mim e meus projetos</strong></summary>
 
-**Got questions? I’m here to help!** 🤝
+### Sobre mim
 
-</div>
+Desenvolvo aplicações web completas, sistemas de gestão e integrações, combinando desenvolvimento de software com experiência prática em infraestrutura de TI.
 
----
+Atuo como **Analista de Suporte Pleno na CEJAM**, no Hospital Municipal Evandro Freire (HMEF), no Rio de Janeiro. Trabalho com infraestrutura, sistemas hospitalares, administração de servidores e automação de processos.
 
-<div align="center">
-  
-### 💫 "Building solutions with code to create a better tomorrow"
+No desenvolvimento Full Stack, utilizo React, JavaScript e TypeScript no frontend, Node.js e Express.js no backend, APIs REST e integração com bancos de dados. Também aplico **IA no desenvolvimento de projetos** e tenho experiência com **bots para WhatsApp com respostas geradas por IA**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AragaoAnderson&color=blueviolet&style=for-the-badge)
+### Projetos
 
-</div>
+- **[CondoNos](https://condonos.com.br/):** plataforma para condomínios, com comunicação, gestão de ocorrências, reservas de áreas comuns e acompanhamento financeiro.
+- **[TAPR](https://tapr.online/):** player de rádios online para web, Windows, iOS e Android, com a versão Windows publicada na Microsoft Store.
+- **[MontServ](https://montserv.com.br/):** site empresarial com área administrativa para gerenciamento de projetos.
+- **Casa do Guerreiro Tricolor:** sistema de gestão de sócios e receitas, loja online, painel administrativo e PDV, além de portal com eventos, notícias e podcasts. **Em desenvolvimento.**
+
+### Formação
+
+Sou bacharel em **Engenharia da Computação pela Universidade Iguaçu** e curso pós-graduações em **Computação em Nuvem, Desenvolvimento de Aplicações para Dispositivos Móveis, Governança e Gestão da Tecnologia da Informação e Inteligência Artificial**.
+
+</details>
+
+## Contact
+
+**Company website:** [ARFA Info](https://arfainfo.com.br/)  
+**Professional profile:** [LinkedIn](https://www.linkedin.com/in/aragao-anderson/)  
+**Email:** [andersonaragao@outlook.com](mailto:andersonaragao@outlook.com)
+
+Also on [Telegram](https://t.me/AndersonAragao), [Threads](https://www.threads.net/@andersonaragao) and [Instagram](https://www.instagram.com/andersonaragao).

@@ -1,5 +1,7 @@
 # Anderson Aragão
 
+[Leia em português](#em-português)
+
 **Full Stack Development · IT Infrastructure · Applied AI**
 
 I build full stack web applications, management systems and integrations, combining software development with hands-on IT infrastructure experience.
